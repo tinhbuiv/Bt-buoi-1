@@ -9,7 +9,7 @@ int main()
     scanf("%d",&a);
     printf("nhap vao so thu 2 :");
     scanf("%d",&b);
-    printf("ket qua la a + b = : %d + %d = %d",a, b,a+b);
+    printf("ket qua la a + b = %d + %d = %d",a, b,a+b);
     return 0;
 
 }
